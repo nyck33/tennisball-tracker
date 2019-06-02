@@ -1,0 +1,380 @@
+{
+  "frame8.jpg75801": {
+    "fileref": "",
+    "size": 75801,
+    "filename": "frame8.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 275,
+          "cy": 245,
+          "r": 4
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame9.jpg75752": {
+    "fileref": "",
+    "size": 75752,
+    "filename": "frame9.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 273,
+          "cy": 243,
+          "r": 5
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame10.jpg75843": {
+    "fileref": "",
+    "size": 75843,
+    "filename": "frame10.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 272,
+          "cy": 237,
+          "r": 4
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame11.jpg75980": {
+    "fileref": "",
+    "size": 75980,
+    "filename": "frame11.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 272,
+          "cy": 229,
+          "r": 4
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame12.jpg76038": {
+    "fileref": "",
+    "size": 76038,
+    "filename": "frame12.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 273,
+          "cy": 219,
+          "r": 4
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame13.jpg76227": {
+    "fileref": "",
+    "size": 76227,
+    "filename": "frame13.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 273,
+          "cy": 213,
+          "r": 4
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame14.jpg76225": {
+    "fileref": "",
+    "size": 76225,
+    "filename": "frame14.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 273,
+          "cy": 206,
+          "r": 5
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame15.jpg76252": {
+    "fileref": "",
+    "size": 76252,
+    "filename": "frame15.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 274,
+          "cy": 199,
+          "r": 5
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame16.jpg76300": {
+    "fileref": "",
+    "size": 76300,
+    "filename": "frame16.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 274,
+          "cy": 193,
+          "r": 5
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame17.jpg76261": {
+    "fileref": "",
+    "size": 76261,
+    "filename": "frame17.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 274,
+          "cy": 187,
+          "r": 5
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame18.jpg76418": {
+    "fileref": "",
+    "size": 76418,
+    "filename": "frame18.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 275,
+          "cy": 182,
+          "r": 4
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame19.jpg76253": {
+    "fileref": "",
+    "size": 76253,
+    "filename": "frame19.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 276,
+          "cy": 178,
+          "r": 4
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame20.jpg76199": {
+    "fileref": "",
+    "size": 76199,
+    "filename": "frame20.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 276,
+          "cy": 174,
+          "r": 4
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame21.jpg76213": {
+    "fileref": "",
+    "size": 76213,
+    "filename": "frame21.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 276,
+          "cy": 171,
+          "r": 4
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame22.jpg76372": {
+    "fileref": "",
+    "size": 76372,
+    "filename": "frame22.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 277,
+          "cy": 168,
+          "r": 5
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame23.jpg76537": {
+    "fileref": "",
+    "size": 76537,
+    "filename": "frame23.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 278,
+          "cy": 166,
+          "r": 5
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame24.jpg76982": {
+    "fileref": "",
+    "size": 76982,
+    "filename": "frame24.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 278,
+          "cy": 165,
+          "r": 5
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame25.jpg77241": {
+    "fileref": "",
+    "size": 77241,
+    "filename": "frame25.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 279,
+          "cy": 165,
+          "r": 4
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame26.jpg77380": {
+    "fileref": "",
+    "size": 77380,
+    "filename": "frame26.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 279,
+          "cy": 164,
+          "r": 4
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame27.jpg77377": {
+    "fileref": "",
+    "size": 77377,
+    "filename": "frame27.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 280,
+          "cy": 164,
+          "r": 4
+        },
+        "region_attributes": {}
+      }
+    }
+  },
+  "frame28.jpg77599": {
+    "fileref": "",
+    "size": 77599,
+    "filename": "frame28.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "circle",
+          "cx": 280,
+          "cy": 165,
+          "r": 4
+        },
+        "region_attributes": {}
+      }
+    }
+  }
+}
