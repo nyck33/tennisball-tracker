@@ -5,5 +5,4 @@ match video frames to track a ball.
 
 If using VGG Annotator, be sure to use version 1 as version 2 is incompatible with Matterport out-of-box.  
 
-I did make some changes to use circle annotation shape rather than polygon.  Probably go with rectangle as circle's mask is 
-inaccurate right now but think there may have been a skimage circle perimeter to get x,y of circle perimeter.  
+ipynb notebook with name ending in perimeter uses `skimage.draw.circle_perimeter` vs. other one uses just `skimage.draw.circle`
